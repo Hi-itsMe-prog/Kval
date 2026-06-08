@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m3400\\source\\repos\\ITSupport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\itspecialistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\itspecialistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\itspecialistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\itspecialistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\itspecialistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\itspecialistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|c:\\users\\m3400\\source\\repos\\itsupport\\itsupport\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\helpers\\requestlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\helpers\\requestlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\requestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\requestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\helpers\\formhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\helpers\\formhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\solutionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\solutionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\repositories\\priorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\repositories\\priorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|C:\\Users\\m3400\\source\\repos\\ITSupport\\itsupport\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42203FB9-F5A1-4EF4-A162-DB643E4D7A00}|ITSupport\\ITSupport.csproj|solutionrelative:itsupport\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\EmployeeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "ITSupport\\Forms\\EmployeeForm.Designer.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv8gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T17:18:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestListHelper.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Helpers\\RequestListHelper.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Helpers\\RequestListHelper.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Helpers\\RequestListHelper.cs",
+              "RelativeToolTip": "ITSupport\\Helpers\\RequestListHelper.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:50:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITSpecialistForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\ITSpecialistForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\ITSpecialistForm.Designer.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\ITSpecialistForm.Designer.cs",
+              "RelativeToolTip": "ITSupport\\Forms\\ITSpecialistForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:00:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITSpecialistForm.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\ITSpecialistForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\ITSpecialistForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\ITSpecialistForm.cs",
+              "RelativeToolTip": "ITSupport\\Forms\\ITSpecialistForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:52:52.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITSpecialistForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\ITSpecialistForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\ITSpecialistForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\ITSpecialistForm.cs [Design]",
+              "RelativeToolTip": "ITSupport\\Forms\\ITSpecialistForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:52:50.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\EmployeeForm.cs",
+              "RelativeToolTip": "ITSupport\\Forms\\EmployeeForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv3UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:52:15.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "ITSupport\\Forms\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:52:12.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\RequestDetailsForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\RequestDetailsForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\RequestDetailsForm.cs [Design]*",
+              "RelativeToolTip": "ITSupport\\Forms\\RequestDetailsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:52:07.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\RequestDetailsForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\RequestDetailsForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\RequestDetailsForm.cs*",
+              "RelativeToolTip": "ITSupport\\Forms\\RequestDetailsForm.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:50:57.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "ITSupport\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:13:40.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "ITSupport\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:13:38.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\App.config",
+              "RelativeDocumentMoniker": "ITSupport\\App.config",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\App.config",
+              "RelativeToolTip": "ITSupport\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-29T14:12:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:54:48.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SolutionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\SolutionRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\SolutionRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\SolutionRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\SolutionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:54:19.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\RequestRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\RequestRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\RequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:53:54.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PriorityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\PriorityRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\PriorityRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\PriorityRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\PriorityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:53:13.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:52:39.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:51:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ITSupport\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:50:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Services\\RequestService.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Services\\RequestService.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Services\\RequestService.cs",
+              "RelativeToolTip": "ITSupport\\Services\\RequestService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:49:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Services\\AuthService.cs",
+              "RelativeToolTip": "ITSupport\\Services\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:47:58.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Solution.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\Solution.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Solution.cs",
+              "RelativeToolTip": "ITSupport\\Models\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:47:05.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\RequestViewModel.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\RequestViewModel.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\RequestViewModel.cs",
+              "RelativeToolTip": "ITSupport\\Models\\RequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:46:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\Priority.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Priority.cs",
+              "RelativeToolTip": "ITSupport\\Models\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:46:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\User.cs",
+              "RelativeToolTip": "ITSupport\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:45:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Request.cs",
+              "RelativeToolTip": "ITSupport\\Models\\Request.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:45:23.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Comment.cs",
+              "RelativeToolTip": "ITSupport\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:45:00.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Models\\Category.cs",
+              "RelativeToolTip": "ITSupport\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:44:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormHelper.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Helpers\\FormHelper.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Helpers\\FormHelper.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Helpers\\FormHelper.cs",
+              "RelativeToolTip": "ITSupport\\Helpers\\FormHelper.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:42:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "ITSupport\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:41:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Program.cs",
+              "RelativeDocumentMoniker": "ITSupport\\Program.cs",
+              "ToolTip": "C:\\Users\\m3400\\source\\repos\\ITSupport\\ITSupport\\Program.cs",
+              "RelativeToolTip": "ITSupport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:39:46.803Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
